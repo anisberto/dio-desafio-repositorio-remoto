@@ -1,5 +1,3 @@
-# dio-desafio-repositorio-remoto
-
 <h1 align="center">
     < 📜 > <br>
  Dio Desafio Repositorio Remoto
